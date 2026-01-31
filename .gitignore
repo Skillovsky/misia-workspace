@@ -1,0 +1,7 @@
+﻿# Secrets
+.clawdbot/
+*.log
+node_modules/
+
+# Local only
+memory/heartbeat-state.json
